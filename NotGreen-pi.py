@@ -4,6 +4,7 @@ import json
 import time
 import datetime
 import numpy as np
+import os
 
 # pi specific imports
 from picamera.array import PiRGBArray
