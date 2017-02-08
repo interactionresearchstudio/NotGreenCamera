@@ -1,3 +1,4 @@
 {
-    "camera_warmup": 2.5
+    "camera_warmup": 2.5,
+    "sensitivity": 30
 }
